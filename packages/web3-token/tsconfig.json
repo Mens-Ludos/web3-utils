@@ -1,0 +1,4 @@
+{
+  "extends": "@mensludos/web3-utils-tsconfig/base.json",
+  "include": ["src", "tests"]
+}
